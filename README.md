@@ -86,16 +86,6 @@ The Website supports <b>User Login/Registration</b> and can <b>Categorizes Expen
         <li><b><a href="https://www.mysql.com/" style="color: #FFF">MySQL</a>:</b> Free and Open-Source Relational Database Management System (RDBMS).</li>
     </ol>
     </li>
-    <br>
-    <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </p>
-    <li><b>HTML 5</b>: Standard Markup Language for creating Web Pages.</li>
-    <li><b>CSS</b>: Used to Style HTML Pages.</li>
-    <li><b>Javascript</b>: Used for Scripting Web Pages.</li>
 </ul>
 
 ### Framework and Packages
@@ -117,16 +107,12 @@ The Website supports <b>User Login/Registration</b> and can <b>Categorizes Expen
 
 <p>Integrated development environments (IDEs) are used to manage workflows, access a suite of development tools within a single dashboard, and reduce errors.</p>
 
-Editors used are ⤵︎
 <ul>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <li><b><a href="https://www.jetbrains.com/phpstorm/" style="color: #FFF">PHPStorm</a>:</b> Editor for PHP, HTML and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code.
+    <p align="left">
         <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=E6E6FA&labelColor=E6E6FA" />
-        <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
     </p>
-    <li><b><a href="https://code.visualstudio.com/" style="color: #FFF">Visual Studio Code</a>:</b> Free, powerful, lightweight code editor, highly customizable with over 25,000 extensions for every Programming Language.</li>
-    <li><b><a href="https://www.jetbrains.com/phpstorm/" style="color: #FFF">PHPStorm</a>:</b> Editor for PHP, HTML and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code.</li>
-    <li><b><a href="https://www.vim.org/" style="color: #FFF">VIM</a></b>: Blazing fast commands from VIM are installed using open-source extensions in both editors.
+    </li>
 </ul>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -207,9 +193,7 @@ This software is licenced under the MIT License. Please read [LICENSE](https://g
 
 <p>Resources used and Reference Links for creating this website are ⤵︎</p>
 
-- [Markdown-Badges](https://github.com/Ileriayo/markdown-badges)
 - [Configure XAMPP for PHPStorm](https://www.jetbrains.com/help/phpstorm/installing-an-amp-package.html)
 - [Getting Started with Google Charts](https://developers.google.com/chart)
-- [ASCII Directory Tree Generator](https://tree.nathanfriend.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
